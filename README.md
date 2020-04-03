@@ -2,7 +2,7 @@
 An ApplesScript that finds available delivery slots for Amazon's Whole Foods delivery and Amazon Fresh services.
 
 ## How it works
-It opens the checkout page in a new window, minimizes it, and then refreshes every ~60 seconds in the background. Once it finds an open slot it alerts you by putting a notification on your screen and playing a sound, and opening the checkout page. __So turn up the volume!__. Once you're notified, quickly select a slot and finish checking out because available slots are snagged almost instantly.
+It opens the checkout page in a new window, minimizes it, and then refreshes every ~5 seconds in the background. Once it finds an open slot it alerts you by putting a notification on your screen and playing a sound, and opening the checkout page. __So turn up the volume!__. Once you're notified, quickly select a slot and finish checking out because available slots are snagged almost instantly.
 
 ## Why use this?
 The Coronavirus 2019 pandemic caused a surge in demand for grocery delivery services, making it nearly impossible to find an open delivery slot. Manually refreshing the page seemed too hard so I created this script to automate the search.
